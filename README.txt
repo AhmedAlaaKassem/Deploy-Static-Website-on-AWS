@@ -5,6 +5,7 @@
 
 UPDATE : I've include final step image screenshot of the URL on webpage .
 UPDATE : I've created another CloudFront distripution :
+
       NEW URL CloudFront : d2bx55re045w3d.cloudfront.net/index.html
 
 URL of s3 bucket : http://ahmed-alaa-website.s3.amazonaws.com/index.html
